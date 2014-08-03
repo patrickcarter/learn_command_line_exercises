@@ -20,3 +20,16 @@ Remember when you put quotes around a directory with spaces in it?
 Yes I remember that  
 You can do that with any command. 
 For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
+
+Can you cd into the temp directory?
+Yes cd tmp
+
+Why don't we go into the temp directory?
+Usually nothing in there
+Can you go to the slash temp directory?
+Yes cd tmp/
+Can you go to the slash temp slash log directory?
+cd tmp/ ls
+
+What does the .. argument to cd do?  Explain it in the Readme.md.
+It brings you to the home directory no subdirecories
