@@ -17,7 +17,8 @@ typed in cd Downloads
 Find another directory with your file browser, then cd to it.
 
 Remember when you put quotes around a directory with spaces in it?
-Yes I remember that  
+Yes I remember that 
+ 
 You can do that with any command. 
 For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
 
@@ -26,10 +27,13 @@ Yes cd tmp
 
 Why don't we go into the temp directory?
 Usually nothing in there
+
 Can you go to the slash temp directory?
 Yes cd tmp/
+
 Can you go to the slash temp slash log directory?
 cd tmp/ ls
 
 What does the .. argument to cd do?  Explain it in the Readme.md.
-It brings you to the home directory no subdirecories
+It brings you up one dir. Patricks-MacBook-Pro:chapter_4 patrickcarter$ cd ..
+Patricks-MacBook-Pro:learn_command_line_exercises patrickcarter$

@@ -16,3 +16,4 @@ to make directories in a path
 
 You can make the temp directory in the chapter_4 directory
 I made all of these in the chapter 4 dir
+ Added add_to_git directory all 20 directories
